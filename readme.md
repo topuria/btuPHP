@@ -17,8 +17,8 @@ And run the web server
 php artisan serve
 ```
 
-Now, visit http://localhost:8000 to try the demo.
+Now, visit http://localhost:8000.
 
 ## Notes
 
-This demo use SQLite database by default.
+SQLite database by default.
